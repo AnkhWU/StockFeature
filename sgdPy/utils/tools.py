@@ -1,6 +1,5 @@
 import rqdatac as rq
-rq.init("15626436420", "vista2211655")
-# rq.init(18123610100,123456)
+rq.init()
 from datetime import datetime
 from collections import defaultdict
 from functools import partial

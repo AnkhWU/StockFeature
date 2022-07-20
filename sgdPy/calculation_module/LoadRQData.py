@@ -1,7 +1,6 @@
 import rqdatac as rq
 import datetime
-rq.init('15626436420','vista2211655')
-# rq.init(18123610100,123456)
+rq.init()
 
 exchange_map = {"XSHG": "SH", "XSHE": "SZ"}
 
